@@ -13,27 +13,27 @@
     "env": {
         "API_HASH": {
             "description": "Your API HASH from my.telegram.org",
-            "value": ""
+            "value": "27be842cb506de9b5520146dfd0ba299"
         },
         "API_ID": {
             "description": "Your API ID from my.telegram.org",
-            "value": ""
+            "value": "24271143"
         },
         "BOT_TOKEN": {
             "description": "Bot token, get it from @BotFather.",
-            "value": ""
+            "value": "6449049799:AAEawf_CYLpL0jd1x9Rdl7zSA-GEilTF_E4"
         },
         "SESSION": {
             "description": "Pyrogram string session.",
-            "value": ""
+            "value": "BQAhTwYAtXQZ6CRK1SWTN_ZpoT3HfJJaa44U8YsKyLFxSMG79BAM8OJEhr53DQ2egxeVES8U8UqZoqp992P-mkHTgYeemhNu-Lp26UGxpy4r9St5Yn3z0rVP_Ew2aRvi6V-Ja4z_85Bc8Sgm0FHtJm4ccK1mJLGn03hQq4zcFkTSVr-AgGAIKbAEC8PHV2IFX541niLlBPZlIV2b45DAX9XJN9HUs3DqyOw-eFOlxOTCTEihq-y1oKuxPviiutVk_yUnDuh_CIdAU1SCM_eUdRSJlwR6D2roDIjIt6LfSuz1_vJ4n6EVPkABkPBjAWSfqUTGQbIluIIf3rvLsraSilTRYbm9tQAAAAFT3v0gAA"
         },
         "AUTH": {
             "description": "User ID of Bot owner.",
-            "value": ""
+            "value": "5702090016"
         },
         "FORCESUB": {
             "description": "Username name of public channel without using '@'.",
-            "value": ""
+            "value": "https://t.me/maths_doubt_group_by_rakesh"
         }
     },
     "buildpacks": [
